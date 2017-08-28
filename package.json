@@ -1,6 +1,6 @@
 {
-  "name": "react-native-simple-picker",
-  "version": "1.4.2",
+  "name": "@pru-rt/react-native-simple-picker",
+  "version": "1.4.3",
   "description": "A simple iOS picker for React Native",
   "main": "index.js",
   "scripts": {
@@ -10,16 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/puredazzle/react-native-simple-picker.git"
   },
-  "keywords": [
-    "React-Native",
-    "Picker",
-    "PickerIOS"
-  ],
+  "keywords": ["React-Native", "Picker", "PickerIOS"],
   "author": "Chris A",
   "license": "MIT",
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js"],
   "bugs": {
     "url": "https://github.com/puredazzle/react-native-simple-picker/issues"
   },
